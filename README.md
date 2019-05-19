@@ -66,6 +66,6 @@ Captain America is subject to **all human vulnerabilities**, although his immuni
 
 ### *IMAGE*
 
-![IMAGE OF CAPTAIN AMERICA]
+![IMAGE OF CAPTAIN AMERICA](captain-america.jpg)
 
 
