@@ -15,24 +15,24 @@ task 0
 
 ### *INTRODUCTION*
 
-REAL NAME: Steve Rogers
-OCCUPATION: crimefighter, (former) freelance artist
-LEGAL STATUS: Citizen of the United States with no criminal record
-IDENTITY: Publicly known
-OTHER ALIASES: Nomad, the Captain
-PLACE OF BIRTH: New York City
-MARITAL STATUS: Single
-KNOWN RELATIVES: Joseph (father, deceased), Sara (mother, deceased)
-GROUP AFFILIATION: Former member of the Invaders, former partner to Bucky, the Falcon, and Nomad, current member of the Avengers
-BASE OF OPERATION: New York City
+* REAL NAME: Steve Rogers
+* OCCUPATION: crimefighter, (former) freelance artist
+* LEGAL STATUS: Citizen of the United States with no criminal record
+* IDENTITY: Publicly known
+* OTHER ALIASES: Nomad, the Captain
+* PLACE OF BIRTH: New York City
+* MARITAL STATUS: Single
+* KNOWN RELATIVES: Joseph (father, deceased), Sara (mother, deceased)
+* GROUP AFFILIATION: Former member of the Invaders, former partner to Bucky, the Falcon, and Nomad, current member of the Avengers
+* BASE OF OPERATION: New York City
 
 
 ### *BIOMETRICS*
 
-HEIGHT: 6 ft. 2 in.
-WEIGHT: 240 lbs.
-EYES: Blue
-HAIR: Blond
+* HEIGHT: 6 ft. 2 in.
+* WEIGHT: 240 lbs.
+* EYES: Blue
+* HAIR: Blond
 
 
 ### *HISTORY*
