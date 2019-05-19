@@ -1,6 +1,5 @@
 # SaveTheEarth
-Spider Induction task 0
-# **CAPTAIN AMERICA**
+
 
 ## TABLE OF CONTENTS
 
@@ -62,3 +61,9 @@ STRENGTH LEVEL: Captain America represents the pinnacle of human physical perfec
 ### *LIMITATIONS*
 
 Captain America is subject to **all human vulnerabilities**, although his immunity to diseases is extraordinary.
+=======
+
+task 0
+
+# *CAPTAIN AMERICA*
+
