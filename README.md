@@ -1,5 +1,7 @@
 # SaveTheEarth
+task 0
 
+# *CAPTAIN AMERICA*
 
 ## TABLE OF CONTENTS
 
@@ -9,7 +11,7 @@
 * WEAPONS
 * STRENGTHS
 * LIMITATIONS
-
+* IMAGE
 
 ### *INTRODUCTION*
 
@@ -61,9 +63,9 @@ STRENGTH LEVEL: Captain America represents the pinnacle of human physical perfec
 ### *LIMITATIONS*
 
 Captain America is subject to **all human vulnerabilities**, although his immunity to diseases is extraordinary.
-=======
 
-task 0
+### *IMAGE*
 
-# *CAPTAIN AMERICA*
+![IMAGE OF CAPTAIN AMERICA]
+
 
